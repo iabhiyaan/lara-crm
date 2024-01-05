@@ -1,6 +1,6 @@
 ## Run Project
 
-- `git clone git@github.com:iabhiyaan/bp-10.git`
+- `git clone git@github.com:iabhiyaan/lara-crm.git`
 - `composer update`
 - `cp .env.example .env`
 - `php artisan key:generate`
